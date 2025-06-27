@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# website-of-school" 
 "# website-of-school" 
 "# website-of-school" 
+"# website-of-school" 
