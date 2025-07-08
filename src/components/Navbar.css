@@ -1,0 +1,58 @@
+nav {
+  /* max-width: 100vw; */
+  display: flex;
+  justify-content: space-between;
+  padding-top: 9px;
+  padding-left: 40px;
+  padding-right: 40px;
+  /* padding-bottom: 20px; */
+  background-color: #101820;
+  min-height: 7vh;
+  max-height: 7vh;
+  max-width: 100vw;
+}
+
+nav .logo img {
+  width: 63px;
+  border-radius: 50px;
+}
+
+nav .navlink ul {
+  display: flex;
+  list-style: none;
+  align-items: center;
+}
+
+nav .navlink ul li {
+
+  cursor: pointer;
+  margin: 0 20px;
+}
+
+nav .navlink ul li a {
+  color: white;
+  /* color: rgb(0, 0, 0); */
+  font-size: 20px;
+  text-decoration: none;
+}
+
+nav .navlink ul li a:hover {
+  color: yellow;
+  text-decoration: underline yellow;
+}
+
+nav .login button {
+  width: 100px;
+  border: none;
+  background-color: #0047AB;
+  margin-right: 30px;
+  border-radius: 10px;
+}
+
+nav .login button a {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 500;
+  cursor: pointer;
+  color: white;
+}

@@ -1,0 +1,70 @@
+#main5{
+    background: url("./school1.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+#main5 #reg{
+    position: absolute;
+    top: 50%;
+    color: #fff;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 10px;
+    width: 400PX;
+    /* height: 400px; */
+    padding: 20px 40px;
+    backdrop-filter: blur(10px);
+}
+#main5 #reg h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 8px 0;
+}
+#main5 #reg p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+#main5 #reg #inputs{
+    position: relative;
+    width: 100%;
+    margin: 10px 0 ;
+}
+#main5 #reg #inputs input{
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    font-size: 16PX;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    padding: 20px 45px 20px 20px;
+    color: #fff;
+    margin: 8px 0;
+}
+#main5 #reg input::placeholder{
+    color: #fff;
+}
+#main5 #reg button {
+    width: 100%;
+    height: 40px;
+    background-color: #fff;
+    border: none;
+    outline:none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0 0 0 .1);
+    cursor: pointer;
+    color: #333;
+    margin: 10px 0;
+    font-weight: 600;
+}
+#main5 #reg button a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+}
+#main5 #reg button a:hover{
+    text-decoration: underline;
+}

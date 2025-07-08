@@ -1,0 +1,1141 @@
+.op {
+  /* background-color: #F1F2F9; */
+  /* margin: 8vh 5vw; */
+  border-radius: 5px;
+}
+
+.op .header h1 {
+  padding-top: 20px;
+  text-align: center;
+  color: #0047AB;
+}
+
+.op .header p {
+  font-size: 20px;
+  color: #0047AB;
+  text-align: center;
+}
+
+.op .header hr {
+  border: none;
+  background-color: #0047AB;
+  height: 0.3em;
+  margin: 30px 10vw;
+}
+
+.op .dami {
+  margin: 20px 0 20px 0;
+  /* text-align: center; */
+}
+
+.op .dami .abo {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 5vh;
+  background-color: #fff;
+  padding: 2vh 3vw;
+  border-radius: 10px;
+}
+
+.op .dami .abo .dec {
+  margin: 0 40px 0 40px;
+}
+
+.op .dami .abo .dec p {
+  text-align: justify;
+  line-height: 1.5;
+}
+
+
+.op .dami .message1 {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 5vh;
+  background-color: #fff;
+  padding: 2vh 3vw;
+  border-radius: 10px;
+}
+
+.op .dami .message1 .im1 img {
+  width: 200px;
+  border-radius: 5px;
+  margin-left: 2vw;
+}
+
+.op .dami .message1 .mes1 h1 {
+  color: #0047AB;
+}
+
+.op .dami .message1 .mes1 p {
+  text-align: justify;
+  line-height: 1.5;
+  margin-top: 1vw;
+}
+
+.op .dami .message2 {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 5vh;
+  background-color: #fff;
+  padding: 2vh 3vw;
+  border-radius: 10px;
+}
+
+.op .dami .message2 .im2 img {
+  width: 200px;
+  border-radius: 5px;
+  margin-left: 2vw;
+}
+
+.op .dami .message2 .mes2 h1 {
+  color: #0047AB;
+}
+
+.op .dami .message2 .mes2 p {
+  text-align: justify;
+  line-height: 1.5;
+  margin-top: 1vw;
+}
+.op .dami .topic h1{
+  color: #0047AB;
+  text-align: center;
+}
+
+.op .dami .achivements .one {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 5vh;
+  background-color: #fff;
+  padding: 2vh 3vw;
+  border-radius: 10px;
+}
+
+.op .dami .achivements .one .im img {
+  width: 300px;
+  border-radius: 5px;
+  margin-left: 2vw;
+}
+
+/* .op .dami .achivements .one .eee h1 {
+  color: #0047AB;
+} */
+
+.op .dami .achivements .one .eee p{
+  text-align: justify;
+  line-height: 1.5;
+  margin-top: 1vw;
+}
+
+.op .dami .achivements .two {
+  display: flex;
+  justify-content: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 5vh;
+  background-color: #fff;
+  padding: 2vh 3vw;
+  border-radius: 10px;
+}
+
+.op .dami .achivements .two .im img {
+  width: 300px;
+  border-radius: 5px;
+  margin-left: 2vw;
+}
+
+.op .dami .achivements .two .ddd h1 {
+  color: #0047AB;
+}
+
+.op .dami .achivements .two .ddd p{
+  text-align: justify;
+  line-height: 1.5;
+  margin-top: 1vw;
+}
+.op .dami .first {
+
+  margin-top: 10px;
+}
+
+.op .dami .first h1 {
+  margin-bottom: 5vh;
+  text-align: center;
+  color: #0047AB;
+  text-decoration: underline;
+}
+
+.op .dami .first table {
+  width: 75vw;
+  text-align: center;
+  margin: 0 12.5vw;
+  background-color: white;
+  font-size: 20px;
+}
+
+.op .dami .first table,
+th,
+td {
+  border-collapse: collapse;
+  border: 3px solid black;
+}
+
+.op .dami .first table thead {
+  height: 50px;
+}
+
+.op .dami .teacher .staff {
+  font-weight: bolder;
+  font-size: 30px;
+  margin: 5vh 0;
+  text-align: center;
+  color: #0047AB;
+  text-decoration: underline;
+}
+
+.op .dami .teacher .ups {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .ups .up {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .ups .up:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ups .up img {
+  height: 266px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .ups .down {
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+  margin-left: 20%;
+}
+
+.op .dami .teacher .ups .down:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ups .down img {
+  height: 266px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bob {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .bob .third img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bob .third {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bob .third:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bob .third img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bob .forth {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bob .forth:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bob .forth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bob .fifth {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bob .fifth:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bob .fifth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bob .sixth {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bob .sixth:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bob .sixth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .bobs .seventh:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bobs .seventh img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs .seventh {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bobs .seventh img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs .eight:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bobs .eight img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs .eight {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bobs .eight img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+
+.op .dami .teacher .bobs .nineth:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bobs .nineth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs .nineth {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bobs .nineth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+
+.op .dami .teacher .bobs .tenth:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .bobs .tenth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .bobs .tenth {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .bobs .tenth img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .vten .ten:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .vten .ten img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .ten {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .vten .ten img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .eleven:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .vten .eleven img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .eleven {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .vten .eleven img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .twelve:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .vten .twelve img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .twelve {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .vten .twelve img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .thirteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .vten .thirteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .vten .thirteen {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .vten .eleven img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .laure .fourteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .laure .fourteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .fourteen {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .laure .fourteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .fifteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .laure .fifteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .fifteen {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .laure .fifteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .sixteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .laure .sixteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .sixteen {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .laure .sixteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .seventeen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .laure .seventeen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .laure .seventeen {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .laure .seventeen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .yabi .eighteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .yabi .eighteen {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .yabi .eighteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .nineteen:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .yabi .nineteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .nineteen {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .yabi .nineteen img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .twenty:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .yabi .twenty img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .twenty {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .yabi .twenty img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .twentyone:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .yabi .twentyone img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .yabi .twentyone {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .yabi .twentyone img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .ham {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .ham .twentytwo {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .ham .twentytwo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ham .twentytwo img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .ham .twentythree {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .ham .twentythree:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ham .twentythree img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .ham .twentyfour {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .ham .twentyfour:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ham .twentyfour img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .ham .twentyfive {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .ham .twentyfive:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .ham .twentyfive img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hame {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .hame .thirty {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hame .thirty:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hame .thirty img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hame .thirtyone {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hame .thirtyone:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hame .thirtyone img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hame .thirtytwo {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hame .thirtytwo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hame .thirtytwo img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hame .thirtythree {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hame .thirtythree:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hame .thirtythree img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hami {
+  display: flex;
+  margin-top: 2vh;
+  text-align: center;
+  justify-content: center;
+}
+
+.op .dami .teacher .hami .twentysix {
+  text-align: center;
+  /* margin-left: 4vw; */
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hami .twentysix:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hami .twentysix img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hami .twentyseven {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hami .twentyseven:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hami .twentyseven img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hami .twentyeight {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hami .twentyeight:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hami .twentyeight img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .hami .twentynine {
+  text-align: center;
+  margin-left: 5vw;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.op .dami .teacher .hami .twentynine:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .hami .twentynine img {
+  width: 200px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 7px;
+}
+
+.op .dami .teacher .review {
+  text-align: center;
+  margin: 5vh 0;
+}
+
+.op .dami .teacher .review #text {
+  height: 5vh;
+  border-radius: 5px;
+  margin: 1vh 0 0 0;
+}
+
+.op .dami .teacher .review button {
+  margin: 1vh 0;
+  padding: 5px 25px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.op .dami .teacher .map-section {
+  padding: 40px 20px;
+  /* background-color: #F1F2F9; */
+  text-align: center;
+  border-radius: 10px;
+  margin: 5vw 2vw;
+}
+
+.op .dami .teacher .map-section:hover {
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.op .dami .teacher .map-section h2 {
+  font-size: 2em;
+  color: #1e40af;
+  margin-bottom: 15px;
+  margin-left: 5%;
+}
+
+.op .dami .teacher .map-section p {
+  font-size: 1.2em;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.op .dami .teacher .map-container {
+  margin-top: 20px;
+  position: relative;
+  width: 100%;
+  height: 450px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.op .dami .teacher .map-container iframe {
+  border: none;
+  border-radius: 10px;
+}
