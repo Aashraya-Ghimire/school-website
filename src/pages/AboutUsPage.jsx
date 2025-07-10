@@ -22,7 +22,7 @@ const AboutUsPage = () => {
             <h1> Message from principal</h1>
             <p>We, educators are fortunate because we have young saplings, our students, to tend to and we as mentors should help our students recognize scores of access to possibilities in which they stand out. It is to us to make a large and positive difference to how well our children do at school by stimulating them with a love of lifelong learning.The unprecedented change in the teaching-learning pedagogy in the 21st century has many things to offer to education system. Students are motivated to walk either independently or hand in hand as compared to earlier times when they were predominantly made to walk, taking by the hand. Consequently, they can cover some extra mile even if they fail many times before they reach the desired destination</p>
           </div>
-          <div className="im1"><img src="./jan.jpg" alt="" /></div>
+          <div className="im1"><img src="./user.jpg" alt="" /></div>
         </div>
 
         <div className="message2">
@@ -30,7 +30,7 @@ const AboutUsPage = () => {
             <h1>Message from vice principal</h1>
             <p>The first step into school is that giant step forward, where children embark on the great adventure of discovering the wide world outside and the depth of the world within. As we hold the little finger and guide the young ones forward, we realize our responsibility of nurturing their curiosity, igniting their minds to pierce the skies, helping them to discover the world of books and richness of experience, ponder on the “mystery of birds in the sky, the bees in the sun, the flowers on a green hill”, and today master the magic of technology and the limitless span of cyber space.</p>
           </div>
-          <div className="im2"><img src="./madhu.png" alt="" /></div>
+          <div className="im2"><img src="./user.jpg" alt="" /></div>
         </div>
         <div className="topic">
           <h1>Our Achivements</h1>
@@ -54,202 +54,7 @@ const AboutUsPage = () => {
 
         <div className="first">
           <h1>Course Offering</h1>
-          <table>
-            <thead>
-              <th>Cources</th>
-              <th>Class</th>
-              <th>Subjects</th>
-            </thead>
-            <tbody>
-              <tr>
-                <td rowspan="12">+2 Education</td>
-                <td rowspan="6">Class 11</td>
-                <td>English</td>
-
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Population Studies</td>
-              </tr>
-              <tr>
-                <td>Fundamental of Education</td>
-              </tr>
-              <tr>
-                <td>Fundamental of Padagogy</td>
-              </tr>
-              <tr>
-                <td>Maths or Health</td>
-              </tr>
-              <tr>
-                <td rowspan="6">Class 12</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Population Studies</td>
-              </tr>
-              <tr>
-                <td>Child Development & Learning</td>
-              </tr>
-              <tr>
-                <td>Int.Evaluation Practicum</td>
-              </tr>
-              <tr>
-                <td>Maths or Health</td>
-              </tr>
-              <tr>
-                <td rowspan="10">+2 Management</td>
-                <td rowspan="5">Class 11</td>
-                <td>English</td>
-
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Economics</td>
-              </tr>
-              <tr>
-                <td>Account</td>
-              </tr>
-              <tr>
-                <td>Business Studies or Computer Science</td>
-              </tr>
-              <tr>
-                <td rowspan="5">Class 12</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Economics</td>
-              </tr>
-              <tr>
-                <td>Account</td>
-              </tr>
-              <tr>
-                <td>Business Studies or Computer Science</td>
-              </tr>
-              <tr>
-                <td>Marketing or Business Math</td>
-              </tr>
-              <tr>
-                <td rowspan="36">Computer Engineering</td>
-                <td rowspan="9">Class 9</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Maths</td>
-              </tr>
-              <tr>
-                <td>Science</td>
-              </tr>
-              <tr>
-                <td>Optional Maths</td>
-              </tr>
-              <tr>
-                <td>Fundamental of Electro System</td>
-              </tr>
-              <tr>
-                <td>Computer Fundamental</td>
-              </tr>
-              <tr>
-                <td>Web Page Design</td>
-              </tr>
-              <tr>
-                <td>Fundamental of Programming in C</td>
-              </tr>
-              <tr>
-                <td rowspan="9">Class 10</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Maths</td>
-              </tr>
-              <tr>
-                <td>Science</td>
-              </tr>
-              <tr>
-                <td>Optional Maths</td>
-              </tr>
-              <tr>
-                <td>Data Base Management System</td>
-              </tr>
-              <tr>
-                <td>Digital Design and Microprocessor</td>
-              </tr>
-              <tr>
-                <td>Computer Hardware Electronic Repair and Maintenance</td>
-              </tr>
-              <tr>
-                <td>Basic concept of Programming in OOP</td>
-              </tr>
-              <tr>
-                <td rowspan="9">Class 11</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Nepali</td>
-              </tr>
-              <tr>
-                <td>Maths</td>
-              </tr>
-              <tr>
-                <td>Chemistry</td>
-              </tr>
-              <tr>
-                <td>Physics</td>
-              </tr>
-              <tr>
-                <td>Programming in Java</td>
-              </tr>
-              <tr>
-                <td>Operating System</td>
-              </tr>
-              <tr>
-                <td>Web & Mobile application Development</td>
-              </tr>
-              <tr>
-                <td>Computer Organization and Architecture</td>
-              </tr>
-              <tr>
-                <td rowspan="9">Class 12</td>
-                <td>English</td>
-              </tr>
-              <tr>
-                <td>Social</td>
-              </tr>
-              <tr>
-                <td>Maths</td>
-              </tr>
-              <tr>
-                <td>Chemistry</td>
-              </tr>
-              <tr>
-                <td>Physics</td>
-              </tr>
-              <tr>
-                <td>Computer Network</td>
-              </tr>
-              <tr>
-                <td>sub7</td>
-              </tr>
-              <tr>
-                <td>sub8</td>
-              </tr>
-              <tr>
-                <td>sub9</td>
-              </tr>
-            </tbody>
-          </table>
+         
         </div>
         <div className="teacher">
           <p className='staff'>
@@ -257,14 +62,14 @@ const AboutUsPage = () => {
           </p>
           <div className="ups">
             <div className="up">
-              <img src="jan.jpg" />
+              <img src="user.jpg" />
 
               <h4>Principal</h4>
               <p>जनार्दन सुवेदी</p>
               <p>गणित -शिक्षा</p>
             </div>
             <div className="down">
-              <img src="./madhu.png" />
+              <img src="./user.jpg" />
               <h4>Vice Principal</h4>
               <p>मधुसूधन सापकोटा</p>
               <p>नेपाली</p>
@@ -272,18 +77,18 @@ const AboutUsPage = () => {
           </div>
           <div className="bob">
             <div className="third">
-              <img src="./bisw.jpg" />
+              <img src="./user.jpg" />
               <p>विश्वरञ्जन सुवेदी</p>
               <p>नेपाली</p>
             </div>
             <div className="forth">
-              <img src="./sang.jpg" />
+              <img src="./user.jpg" />
 
               <p>संगीता कडेल</p>
               <p>अंग्रेजी</p>
             </div>
             <div className="fifth">
-              <img src="./sho.jpg" />
+              <img src="./user.jpg" />
               <p>शोभाखर सापकोटा</p>
               <p>विज्ञान</p>
             </div>
@@ -297,7 +102,7 @@ const AboutUsPage = () => {
 
           <div className="bobs">
             <div className="seventh">
-              <img src="raj.jpg" />
+              <img src="user.jpg" />
               <p>राजू कमाल</p>
               <p>सामाजिक</p>
             </div>
@@ -307,35 +112,35 @@ const AboutUsPage = () => {
               <p>व्यवस्थापन</p>
             </div>
             <div className="nineth">
-              <img src="./mah.jpg" />
+              <img src="./user.jpg" />
               <p> महेश्वर पण्डित</p>
               <p>अंग्रेजी</p>
             </div>
             <div className="tenth">
-              <img src="surw.jpg" />
+              <img src="user.jpg" />
               <p>सर्वेन्द्र अधिकारी</p>
               <p>रसायन शास्त्र</p>
             </div>
           </div>
           <div className="vten">
             <div className="ten">
-              <img src="./sur.jpg" />
+              <img src="./user.jpg" />
               <p>सूर्य पसाद वास्तोला</p>
               <p>भौतिक शास्त्र</p>
             </div>
             <div className="eleven">
-              <img src="./puk.jpg" />
+              <img src="./user.jpg" />
               <p>पुकार श्रेष्ठ</p>
               <p>Electrical & </p>
               <p>Electronics Engineering</p>
             </div>
             <div className="twelve">
-              <img src="./rekh.jpg" />
+              <img src="./user.jpg" />
               <p>रेखा ओझा</p>
               <p>Computer Fundamental</p>
             </div>
             <div className="thirteen">
-              <img src="./sab.jpg" />
+              <img src="./user.jpg" />
               <p> सविता अधिकारी</p>
               <p>अर्थशास्त्र / सामाजिक</p>
             </div>
@@ -347,34 +152,34 @@ const AboutUsPage = () => {
               <p>कम्प्युटर विज्ञान</p>
             </div>
             <div className="fifteen">
-              <img src="./yagaya.jpg" />
+              <img src="./user.jpg" />
               <p>यज्ञ प्रसाद न्यौपाने</p>
               <p>BCA IT</p>
             </div>
             <div className="sixteen">
-              <img src="sree.jpg" />
+              <img src="user.jpg" />
               <p>श्रीजन पण्डित</p>
               <p>Software Engineering</p>
             </div>
             <div className="seventeen">
-              <img src="tej.jpg" />
+              <img src="user.jpg" />
               <p>तेजन प्रसाद अधिकारी</p>
               <p>नेपाली</p>
             </div>
           </div>
           <div className="yabi">
             <div className="eighteen">
-              <img src="./h.jpg" />
+              <img src="./user.jpg" />
               <p>एच. नारायण तिवारी</p>
               <p>गणित</p>
             </div>
             <div className="nineteen">
-              <img src="shank.jpg" />
+              <img src="user.jpg" />
               <p>शंकर प्रसाद मर्शैनी</p>
               <p>अंग्रेजी</p>
             </div>
             <div className="twenty">
-              <img src="./shiva.jpg" />
+              <img src="./user.jpg" />
               <p> शिव राज तिवारी</p>
               <p>अर्थशास्त्र / सामाजिक</p>
             </div>
@@ -396,7 +201,7 @@ const AboutUsPage = () => {
               <p>विज्ञान</p>
             </div>
             <div className="twentyfour">
-              <img src="roj.jpg" alt="" />
+              <img src="user.jpg" alt="" />
               <p>रोजिना कडेस भूर्तेल</p>
               <p>अंग्रेजी</p>
             </div>
@@ -408,34 +213,34 @@ const AboutUsPage = () => {
           </div>
           <div className="hame">
             <div className="thirty">
-              <img src="./nis.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>रुपचन्द्र न्यौपाने</p>
               <p>नेपाली</p>
             </div>
             <div className="thirtyone">
-              <img src="./nab.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>नबिन भट्टराई</p>
               <p>Programming Language</p>
             </div>
             <div className="thirtytwo">
-              <img src="./sus.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>सुशन सुबेदि</p>
               <p>Web Designing</p>
             </div>
             <div className="thirtythree">
-              <img src="./sun.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>सुनिल अधिकारि</p>
               <p>DBMS</p>
             </div>
           </div>
           <div className="hami">
             <div className="twentysix">
-              <img src="./bin.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>विनिता विश्वकर्मा</p>
               <p>विज्ञान</p>
             </div>
             <div className="twentyseven">
-              <img src="./sati.jpg" alt="" />
+              <img src="./user.jpg" alt="" />
               <p>सतिधर पौडेल</p>
               <p>पि.टी शिक्षक</p>
             </div>
